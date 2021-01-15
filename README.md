@@ -1,6 +1,8 @@
 # DSC-IBA | Android Bootcamp
 
-## This is the official repository for Android Bootcamp by DSC-IBA
+This is the official repository for Android Bootcamp by DSC-IBA
+
+![](Day1/images/roadmap.jpeg)
 
 # Day 1 (An introduction to the environment)
 
