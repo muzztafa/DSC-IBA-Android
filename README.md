@@ -49,7 +49,7 @@ In this task you'll create a new project to know that Android Studio is working 
 
 ![](Day1/images/screen1.PNG)
 
-16) Click on activity_main.xml tab to see the layout editor:
+16) Click on MainActivity.java tab to see the layout editor:
 
 
 ![](Day1/images/mainActivity.PNG)
