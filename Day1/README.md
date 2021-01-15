@@ -4,6 +4,8 @@
 
 By Ahmed Mustafa, Core Team member and Android lead @ DSC-IBA
 
+![](images/myPic.PNG)
+
 # Front End:
 
 
