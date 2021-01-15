@@ -1,4 +1,4 @@
-## DSC-IBA | Android Bootcamp
+# DSC-IBA | Android Bootcamp
 
 # Day 1 (An introduction to the environment)
 
