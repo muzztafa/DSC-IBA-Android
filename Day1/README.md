@@ -4,17 +4,17 @@
 
 By Ahmed Mustafa, Core Team member and Android lead @ DSC-IBA
 
-## TASK 1: Install Android Studio
+# TASK 1: Install Android Studio
 
 Android Studio provides a complete integrated development environment (IDE) including an advanced code editor and a set of app templates. In addition, it contains tools for development, debugging, testing, and performance that make it faster and easier to develop apps. You can test your apps with a large range of preconfigured emulators or on your own mobile device, build production apps, and publish on the Google Play store.
 
 Download the latest at [Android Studio](https://developer.android.com/studio/index.html)
 
-## TASK 2: Create the Hello World app
+# TASK 2: Create the Hello World app
 
 In this task you'll create a new project to know that Android Studio is working fine on your system.
 
-# Create the app project
+## Create the app project
   1) Open Android Studio
   2) In the main Welcome to Android Studio window, click Start a new Android Studio project.
   3) In the Create Android Project window, enter Hello World for the Application name.
