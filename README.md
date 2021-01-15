@@ -18,8 +18,12 @@ Download the latest at [Android Studio](https://developer.android.com/studio/ind
 # Setting Up The Environment
 
 
-Follow the tasks on here to gain a better understanding! 
-Homework tab on [here](https://developer.android.com/codelabs/android-training-hello-world?index=..%2F..%2Fandroid-train) is your assignment
-Upload screenshots, compile in word document/pdf and submit on Google Classroom. Code: 6vkwowo
+Follow the tasks on here to gain a better understanding!
+
+Open Homework tab [here](https://developer.android.com/codelabs/android-training-hello-world?index=..%2F..%2Fandroid-train) is your assignment.
+
+Upload screenshots, compile in word document/pdf and submit on Google Classroom.
+
+Code: 6vkwowo
 
 ## Happy coding!
