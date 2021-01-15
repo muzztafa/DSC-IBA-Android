@@ -19,7 +19,7 @@ In this task you'll create a new project to know that Android Studio is working 
   2) In the main Welcome to Android Studio window, click Start a new Android Studio project.
   3) In the Create Android Project window, enter Hello World for the Application name.
 
-![](images/createApp.PNG)
+![](Day1/images/createApp.PNG)
 
 
   5) Verify that the default Project location is where you want to store your Hello World app and other Android Studio projects, or      change it to your preferred directory.
@@ -31,13 +31,13 @@ In this task you'll create a new project to know that Android Studio is working 
   
   10) The Add an Activity window appears. An Activity is a single, focused thing that the user can do. It is a crucial component of any Android app. An Activity typically has a layout associated with it that defines how UI elements appear on a screen. Android Studio provides Activity templates to help you get started. For the Hello World project, choose Empty Activity as shown below, and click Next.
   
-![](images/addActivity.PNG)
+![](Day1/images/addActivity.PNG)
 
 
 11) The Configure Activity screen appears (which differs depending on which template you chose in the previous step). By default, the empty Activity provided by the template is named MainActivity. You can change this if you want, but this lesson uses MainActivity.
 
 
-![](images/configActivity.PNG)
+![](Day1/images/configActivity.PNG)
 
 12) Make sure that the Generate Layout file option is checked. The layout name by default is activity_main. You can change this if you want, but this lesson uses activity_main.
 13) Make sure that the Backwards Compatibility (App Compat) option is checked. This ensures that your app will be backwards-compatible with previous versions of Android.
@@ -47,11 +47,11 @@ In this task you'll create a new project to know that Android Studio is working 
 
 15) Click on activity_main.xml tab to see the layout editor:
 
-![](images/screen1.PNG)
+![](Day1/images/screen1.PNG)
 
 16) Click on activity_main.xml tab to see the layout editor:
 
 
-![](images/mainActivity.PNG)
+![](Day1/images/mainActivity.PNG)
 
 
